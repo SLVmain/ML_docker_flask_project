@@ -56,4 +56,3 @@ $ docker run -d -p 8180:8180 -v <your_local_path_to_pretrained_models>:/app/app/
 
 ### Переходим на localhost:8180
 
-#/Users/Skytandem/GEEKBRAINS/Машинное обучение в бизнесе/Машинное обученгие 2/project/randomforest_pipeline.dill
